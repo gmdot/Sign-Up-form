@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+html {
+    font-family: "Bebas Neue";
+    font-weight: lighter;
+    background: linear-gradient(to right, #63a4ff 50%, white 50%);
+}
+
+.slogan{
+    margin:0;
+    padding: 0;
+    color: #63a4ff;
+}
+
+.slogan h1{
+    font-size: 90px;
+    margin-left: 75rem;
+    margin-top: 20rem;
+    margin-bottom: -25rem;
+}
+
+.container {
+    margin-left: 20rem;
+    margin-top: 10rem;
+    font-size: 24px;
+    max-width: 300px;
+    height: 550px;
+    background: white;
+    border-radius: 5px;
+    padding-left: 1rem;
+    box-shadow: 0 10px 6px -10px black;
+}
+
+.container h2{
+    padding-top: 1rem;
+}
+
+.container a {
+    color: #63a4ff;
+}
+
+.input-field input {
+    font-family: "Bebas Neue";
+    font-size: 20px;
+    margin-bottom: 1rem;
+    border: none;
+    outline: none;
+    border-left: 2px solid #63a4ff;
+    transition: all 0.3s linear;
+}
+
+.input-field input:hover {
+    border-left: 4px solid #63a4ff;
+}
+
+.sign-up {
+    font-family: "Bebas Neue";
+    margin-left: 7rem;
+    margin-top: 1rem;
+    margin-bottom: 0.6rem;
+    border: none;
+    outline: none;
+    font-size: 22px;
+    cursor: pointer;
+    background: #63a4ff;   
+    border-radius: 4px;
+    color: white;
+    transition: all 0.3s ease-out;
+}
+
+.sign-up:hover {
+    background: #3483f1;
+}
+
+.footer span {
+    margin: 8.5rem;
+}
+
+.social-field button {
+    font-size: 20px;
+    width: 280px;
+    height: 30px;
+    font-family: "Bebas Neue";
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.social-twitter button{
+    background: #1DA1F2;
+    color: white;
+    border-radius: 3px;
+    transition: all 0.3s ease-out;
+}
+
+.social-twitter button:hover {
+    background: #2284c2;
+}
+
+.social-linkedin button {
+    background: #2867B2;
+    color: white;
+    border-radius: 3px;
+    transition: all 0.3s ease-out;
+}
+
+.social-linkedin button:hover {
+    background: #1f5392;
+}
+
+.social-facebook button {
+    background: #0952e4;
+    color: white;
+    border-radius: 3px;
+    transition: all 0.3s ease-out;
+}
+
+.social-facebook button:hover {
+    background: #083a9e;
+}
