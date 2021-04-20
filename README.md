@@ -1,5 +1,6 @@
 # Sign-Up Page
 <p>A Sign-Up page made by me</p>
+
 ![Capturar](https://user-images.githubusercontent.com/71733368/115474604-2d6b8980-a214-11eb-8e9e-0b61931a2854.PNG)
 
 <p>In this project, I practiced a lot of css transitions</p>
